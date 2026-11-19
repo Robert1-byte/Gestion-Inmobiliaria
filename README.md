@@ -35,6 +35,7 @@ docker-compose.yml       Orquestación local y despliegue
 - [Plan de configuración y administración](docs/plan-configuracion.md)
 - [Arquitectura inicial](docs/arquitectura-inicial.md)
 - [Modelo conceptual de base de datos](docs/modelo-conceptual.md)
+- [Matriz de trazabilidad (Excel)](docs/matriz-trazabilidad.xlsx)
 
 ## Puesta en marcha
 
