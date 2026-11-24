@@ -1,5 +1,9 @@
 # Modelo conceptual de base de datos
 
+![Modelo entidad-relación](diagrama-mer.svg)
+
+Versión Mermaid editable: [diagrama-mer.md](diagrama-mer.md).
+
 ```mermaid
 erDiagram
     PROPIEDAD ||--o{ CONTRATO : tiene
