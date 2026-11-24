@@ -36,6 +36,7 @@ docker-compose.yml       Orquestación local y despliegue
 - [Arquitectura inicial](docs/arquitectura-inicial.md)
 - [Diagrama de la arquitectura](docs/diagrama-arquitectura.svg) · [versión Mermaid](docs/diagrama-arquitectura.md)
 - [Modelo conceptual de base de datos](docs/modelo-conceptual.md)
+- [Diagrama entidad-relación](docs/diagrama-mer.svg) · [versión Mermaid](docs/diagrama-mer.md)
 - [Matriz de trazabilidad (Excel)](docs/matriz-trazabilidad.xlsx)
 
 ## Puesta en marcha
