@@ -1,5 +1,9 @@
 # Arquitectura inicial
 
+![Diagrama de la arquitectura inicial](diagrama-arquitectura.svg)
+
+Versión Mermaid editable: [diagrama-arquitectura.md](diagrama-arquitectura.md).
+
 ## Vista física
 
 ```text
